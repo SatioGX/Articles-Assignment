@@ -32,13 +32,13 @@ let articleList = [
     {
         id:3,
         title: `Tax season has started!`,
-        description: `Business from the tech industry`,
+        description: `Get your taxes done by professionals`,
         author: `Dennis`
     },
     {
         id:4,
-        title: `Math is booming`,
-        description: `Math from the tech industry`,
+        title: `Math is boring`,
+        description: `Teach students taxes!`,
         author: `Jason`
     },
 ]
